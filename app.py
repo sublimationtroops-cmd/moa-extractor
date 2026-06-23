@@ -435,7 +435,7 @@ st.markdown("""
   <div class="moa-badge">PO Count Sheet Extractor</div>
   <div class="moa-title">MOA <em>Count Sheet</em> Extractor</div>
   <div class="moa-sub">Upload your PO PDF and get a formatted Excel file instantly.<br>
-  No Google account needed. Runs fully on your machine. <span style="color:#00FF00;font-weight:bold;">→ Dinesh Sublimation Team</span></div>
+  No Google account needed. Runs fully on your machine. <span style="color:#00FF00;font-weight:bold;">→ Hsenid</span></div>
 </div>
 """, unsafe_allow_html=True)
 
